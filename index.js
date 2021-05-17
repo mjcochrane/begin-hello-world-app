@@ -13,11 +13,11 @@ exports.handler = async function http(req) {
 
     <h1 class="center-text">
       <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello world!
+      Hello world! Test
     </h1>
 
     <p class="center-text">
-      Your <a href="https://begin.com" class="link" target="_blank">Begin</a> app is ready to go!
+      Your <a href="https://begin.com" class="link" target="_blank">Begin</a> app is ready to go! Test
     </p>
 
   </body>
